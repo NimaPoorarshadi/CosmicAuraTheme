@@ -1,0 +1,22 @@
+{
+  "name": "cosmic-aura",
+  "displayName": "Cosmic Aura",
+  "description": "Cosmice Aura vscode theme",
+  "version": "0.0.1",
+  "publisher": "NimaPoorarshadi",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cosmic Aura",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cosmic Aura-color-theme.json"
+      }
+    ]
+  }
+}
