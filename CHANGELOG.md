@@ -1,9 +1,17 @@
 # Change Log
 
-All notable changes to the "cosmic-aura" extension will be documented in this file.
+## [1.0.2] - 2025-08-24
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### Added
 
-## [Unreleased]
+- Complete README with badges and installation guide
 
-- Initial release
+### Changed
+
+- Minor improvements to theme configuration and metadata
+
+## [1.0.0] - 2025-08-23
+
+### Added
+
+- Initial release of **Cosmic Aura** theme

@@ -1,9 +1,15 @@
 {
   "name": "cosmic-aura",
   "displayName": "Cosmic Aura",
-  "description": "Cosmice Aura vscode theme",
-  "version": "1.0.1",
+  "description": "A vibrant dark theme inspired by the cosmos 🌌✨. Cosmic Aura blends deep space tones with glowing neon accents — fully optimized for C++, Python, JavaScript, and JSON 🚀.",
+  "version": "1.0.2",
+  "icon": "images/icon.png",
   "publisher": "NimaPoorarshadi",
+  "author": {
+    "name": "Nima Poorarshadi",
+    "url": "https://github.com/NimaPoorarshadi",
+    "email": "nimapoorarshadi@gmail.com"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/NimaPoorarshadi/CosmicAuraTheme"
@@ -25,7 +31,14 @@
     "vibrant",
     "minimal",
     "modern",
-    "developer"
+    "developer",
+    "c++",
+    "c plus plus",
+    "python",
+    "javascript",
+    "react",
+    "next js",
+    "js"
   ],
   "engines": {
     "vscode": "^1.103.0"
@@ -33,7 +46,6 @@
   "categories": [
     "Themes"
   ],
-  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
