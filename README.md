@@ -1,6 +1,6 @@
 <div align="center">
 
-![Cosmic Aura cpp preview](images/cpp.png)
+![Cosmic Aura cpp preview](images/Cpp.png)
 
 # Cosmic Aura Theme for VS Code
 
@@ -11,11 +11,11 @@
   <a href="https://marketplace.visualstudio.com/items?itemName=NimaPoorarshadi.cosmic-aura"><img src="https://img.shields.io/visual-studio-marketplace/stars/NimaPoorarshadi.cosmic-aura?style=for-the-badge&logo=reverbnation&logoColor=white&colorA=2b303b&colorB=FFE66D" alt="rating"></a>
 </p>
 
-![Cosmic Aura Javascript preview](images/javascript.png)
+![Cosmic Aura Javascript preview](images/Javascript.png)
 
 > **NOTE**: The default italic keywords in Cosmic Aura look especially good with the **Comic Code** font.
 
-![Cosmic Aura python preview](images/python.png)
+![Cosmic Aura python preview](images/Python.png)
 
 </div>
 
