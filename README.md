@@ -1,6 +1,6 @@
 <div align="center">
 
-![Cosmic Aura cpp preview](images/Cpp.png)
+![Cosmic Aura cpp preview](images/CPP.png)
 
 # Cosmic Aura Theme for VS Code
 
