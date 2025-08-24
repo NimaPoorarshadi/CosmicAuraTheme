@@ -4,7 +4,7 @@
 
 # Cosmic Aura Theme for VS Code
 
-[![release](https://img.shields.io/github/release/NimaPoorarshadi/CosmicAuraTheme.svg?style=for-the-badge&logo=github&logoColor=white&colorA=2b303b&colorB=00e8c6)](https://github.com/NimaPoorarshadi/CosmicAuraTheme/releases/latest)
+[![release](https://img.shields.io/github/v/release/NimaPoorarshadi/CosmicAuraTheme?style=for-the-badge&logo=github&logoColor=white&colorA=2b303b&colorB=00e8c6)](https://github.com/NimaPoorarshadi/CosmicAuraTheme/releases/latest)
 [![vscode](https://img.shields.io/badge/VS_Code-v1.103+-373277.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&colorA=2b303b&colorB=7cb7ff)](https://code.visualstudio.com/updates/v1_103)
 [![downloads](https://img.shields.io/visual-studio-marketplace/d/NimaPoorarshadi.cosmic-aura?style=for-the-badge&logo=docusign&logoColor=white&colorA=2b303b&colorB=96E072)](https://marketplace.visualstudio.com/items?itemName=NimaPoorarshadi.cosmic-aura)
 [![rating](https://img.shields.io/visual-studio-marketplace/stars/NimaPoorarshadi.cosmic-aura?style=for-the-badge&logo=reverbnation&logoColor=white&colorA=2b303b&colorB=FFE66D)](https://marketplace.visualstudio.com/items?itemName=NimaPoorarshadi.cosmic-aura)
