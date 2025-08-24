@@ -2,14 +2,38 @@
   "name": "cosmic-aura",
   "displayName": "Cosmic Aura",
   "description": "Cosmice Aura vscode theme",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "publisher": "NimaPoorarshadi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NimaPoorarshadi/CosmicAuraTheme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "cosmic aura",
+    "cosmic",
+    "dark theme",
+    "aura",
+    "galaxy",
+    "nebula",
+    "stars",
+    "night sky",
+    "space",
+    "aesthetic",
+    "colorful",
+    "vibrant",
+    "minimal",
+    "modern",
+    "developer"
+  ],
   "engines": {
     "vscode": "^1.103.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {

@@ -138,12 +138,12 @@
     "terminalCursor.background": "#23262E",
     "terminalCursor.foreground": "#FFE66D",
     "titleBar.activeBackground": "#1a1b26",
-    "notification.background": "#2d313b",
-    "notification.buttonBackground": "#00e8c5cc",
-    "notification.buttonHoverBackground": "#07d4b5b0",
-    "notification.infoBackground": "#00b0ff",
-    "notification.warningBackground": "#FF9F2E",
-    "notification.errorBackground": "#FC644D",
+    // "notification.background": "#2d313b",
+    // "notification.buttonBackground": "#00e8c5cc",
+    // "notification.buttonHoverBackground": "#07d4b5b0",
+    // "notification.infoBackground": "#00b0ff",
+    // "notification.warningBackground": "#FF9F2E",
+    // "notification.errorBackground": "#FC644D",
     "extensionButton.prominentBackground": "#07d4b6cc",
     "extensionButton.prominentHoverBackground": "#07d4b5b0",
     "pickerGroup.border": "#4F4355",
@@ -155,8 +155,8 @@
   "tokenColors": [
     {
       "settings": {
-        "foreground": "#D5CED9",
-        "background": "#23262E"
+        "foreground": "#D5CED9"
+        // "background": "#23262E"
       }
     },
     {
