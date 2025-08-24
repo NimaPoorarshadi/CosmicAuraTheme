@@ -4,12 +4,10 @@
 
 # Cosmic Aura Theme for VS Code
 
-<p align="center">
-  <a href="https://github.com/NimaPoorarshadi/CosmicAuraTheme/releases/latest"><img src="https://img.shields.io/github/release/NimaPoorarshadi/CosmicAuraTheme.svg?style=for-the-badge&logo=github&logoColor=white&colorA=2b303b&colorB=00e8c6" alt="release"></a>
-  <a href="https://code.visualstudio.com/updates/v1_103"><img src="https://img.shields.io/badge/VS_Code-v1.103+-373277.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&colorA=2b303b&colorB=7cb7ff" alt="vscode"></a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=NimaPoorarshadi.cosmic-aura"><img src="https://img.shields.io/visual-studio-marketplace/d/NimaPoorarshadi.cosmic-aura?style=for-the-badge&logo=docusign&logoColor=white&colorA=2b303b&colorB=96E072" alt="downloads"></a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=NimaPoorarshadi.cosmic-aura"><img src="https://img.shields.io/visual-studio-marketplace/stars/NimaPoorarshadi.cosmic-aura?style=for-the-badge&logo=reverbnation&logoColor=white&colorA=2b303b&colorB=FFE66D" alt="rating"></a>
-</p>
+[![release](https://img.shields.io/github/release/NimaPoorarshadi/CosmicAuraTheme.svg?style=for-the-badge&logo=github&logoColor=white&colorA=2b303b&colorB=00e8c6)](https://github.com/NimaPoorarshadi/CosmicAuraTheme/releases/latest)
+[![vscode](https://img.shields.io/badge/VS_Code-v1.103+-373277.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&colorA=2b303b&colorB=7cb7ff)](https://code.visualstudio.com/updates/v1_103)
+[![downloads](https://img.shields.io/visual-studio-marketplace/d/NimaPoorarshadi.cosmic-aura?style=for-the-badge&logo=docusign&logoColor=white&colorA=2b303b&colorB=96E072)](https://marketplace.visualstudio.com/items?itemName=NimaPoorarshadi.cosmic-aura)
+[![rating](https://img.shields.io/visual-studio-marketplace/stars/NimaPoorarshadi.cosmic-aura?style=for-the-badge&logo=reverbnation&logoColor=white&colorA=2b303b&colorB=FFE66D)](https://marketplace.visualstudio.com/items?itemName=NimaPoorarshadi.cosmic-aura)
 
 ![Cosmic Aura Javascript preview](images/Javascript.png)
 
