@@ -2,7 +2,7 @@
   "name": "cosmic-aura",
   "displayName": "Cosmic Aura",
   "description": "A vibrant dark theme inspired by the cosmos 🌌✨. Cosmic Aura blends deep space tones with glowing neon accents — fully optimized for C++, Python, JavaScript, and JSON 🚀.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "icon": "images/icon.png",
   "publisher": "NimaPoorarshadi",
   "author": {
