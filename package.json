@@ -1,8 +1,8 @@
 {
   "name": "cosmic-aura",
   "displayName": "Cosmic Aura",
-  "description": "A vibrant dark theme inspired by the cosmos 🌌✨. Cosmic Aura blends deep space tones with glowing neon accents — fully optimized for C++, Python, JavaScript, and JSON 🚀.",
-  "version": "1.0.4",
+  "description": "A vibrant dark theme inspired by the cosmos 🌌✨. Cosmic Aura blends deep space tones with glowing neon accents — now with Aurora, Amber Synthwave, and Nebula variations 🚀.",
+  "version": "2.0.0",
   "icon": "images/icon.png",
   "publisher": "NimaPoorarshadi",
   "author": {
@@ -19,10 +19,13 @@
     "dark theme",
     "cosmic aura",
     "cosmic",
-    "dark theme",
     "aura",
     "galaxy",
     "nebula",
+    "aurora",
+    "synthwave",
+    "retro",
+    "amber",
     "stars",
     "night sky",
     "space",
@@ -49,9 +52,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Cosmic Aura",
+        "label": "Cosmic Aura — Aurora",
         "uiTheme": "vs-dark",
-        "path": "./themes/Cosmic Aura-color-theme.json"
+        "path": "./themes/Cosmic_Aura_Aurora-color-theme.json"
+      },
+      {
+        "label": "Cosmic Aura — Amber Synthwave",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cosmic_Aura_Amber_Synthwave-color-theme.json"
+      },
+      {
+        "label": "Cosmic Aura — Nebula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cosmic_Aura_Nebula-color-theme.json"
       }
     ]
   }
