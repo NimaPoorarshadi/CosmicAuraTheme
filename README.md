@@ -1,6 +1,5 @@
 <div align="center">
 
-![Cosmic Aura Aurora preview](images/CPP.png)
 
 # Cosmic Aura Theme for VS Code
 
@@ -32,7 +31,6 @@
 ### ✦ Cosmic Aura — Aurora
 > The original. Electric cyan, hot magenta, vivid lime — deep indigo grounds with neon colors dancing like the northern lights.
 
-![Cosmic Aura Aurora C++](images/CPP.png)
 ![Cosmic Aura Aurora JavaScript](images/Javascript.png)
 ![Cosmic Aura Aurora Python](images/Python.png)
 
