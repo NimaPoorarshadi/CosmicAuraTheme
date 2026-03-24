@@ -1,5 +1,8 @@
 # Change Log
 
+## [2.0.2] - 2026-03-24
+### Fixed
+- Bug fixes
 ## [2.0.1] - 2026-03-24
 ### Fixed
 - Set Cosmic Aura — Aurora as the default theme
