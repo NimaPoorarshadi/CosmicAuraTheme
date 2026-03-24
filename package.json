@@ -2,7 +2,7 @@
   "name": "cosmic-aura",
   "displayName": "Cosmic Aura",
   "description": "A vibrant dark theme inspired by the cosmos 🌌✨. Cosmic Aura blends deep space tones with glowing neon accents — now with Aurora, Amber Synthwave, and Nebula variations 🚀.",
-  "version": "2.0.4",
+  "version": "2.0.6",
   "icon": "images/icon.png",
   "publisher": "NimaPoorarshadi",
   "author": {
@@ -57,7 +57,7 @@
         "path": "./themes/Cosmic_Aura_Aurora-color-theme.json"
       },
       {
-        "label": "Cosmic Aura — Amber Synthwave",
+        "label": "Cosmic Aura — Synthwave Amber",
         "uiTheme": "vs-dark",
         "path": "./themes/Cosmic_Aura_Amber_Synthwave-color-theme.json"
       },

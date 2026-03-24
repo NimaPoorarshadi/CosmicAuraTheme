@@ -1,5 +1,9 @@
 # Change Log
 
+## [2.0.6] - 2026-03-24
+### Fixed bug
+- Bug fixes
+
 ## [2.0.4] - 2026-03-24
 ### Fixed bug
 - Bug fixes
